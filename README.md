@@ -1,0 +1,1 @@
+Para executar o projeto deve configurar a string de conexão em appsetting.json
